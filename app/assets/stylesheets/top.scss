@@ -127,11 +127,83 @@ button {
 }
 
 
+.Box{
+  width: 400px;
+  margin: 0 auto;
+}
+
+
 .Box1{
-  width: 450px;
+  width: 400px;
   height:100px;
   background-color: #141f40;
 }
 
 
 
+.Box2{
+  height: 250px;
+  width: 150px;
+  background-color: #80bfa8;
+  float: left;
+}
+
+.Box3{
+  height: 250px;
+  width: 250px;
+  background-color: #8c2727;
+  float: left;
+  
+
+}
+
+
+.clearfix:after {
+  content: " ";/* ピリオドを消してスペース入れました。 */
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  }
+
+.Box4{
+  height: 100px;
+  width: 400px;
+  background-color: #d98d30;
+}
+
+
+.yellow{
+  height: 50px;
+  width: 150px;
+  background-color:#dbd640;
+  float: left;
+
+}
+.blue{
+  height: 100px;
+  width: 150px;
+  background-color:#0093b7;
+  float: left;
+
+}
+
+.orange{
+  height: 150px;
+  width: 100px;
+  background-color:#ff9e6b;
+ 
+  float: right;
+
+}
+
+
+
+.red{
+  height: 100px;
+  width: 250px;
+  background-color: #8c2727;
+  float: left;
+  
+
+}
