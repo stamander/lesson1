@@ -207,3 +207,187 @@ button {
   
 
 }
+
+
+.dark_blue{
+  width: 400px;
+  height:100px;
+  background-color: #141f40;
+  position: relative;
+}
+
+.white{
+  position: absolute;
+  background-color: white;
+  width: 160px;
+  height: 60px;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.reds{
+  margin-top: 10px;
+
+  width: 40px;
+  height: 40px;
+  background-color: #a9004b;
+
+}
+
+.green{
+  height: 250px;
+  width: 150px;
+  background-color: #80bfa8;
+  float: left;
+}
+
+
+.dark_red{
+  height: 250px;
+  width: 250px;
+  background-color: #8c2727;
+  float: left;
+  position: relative;
+}
+
+
+.whites1{
+  position: absolute;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(248, 248, 247);
+  margin :40px 60px 10px 40px;
+ 
+}
+
+
+.oranges{
+  box-sizing: border-box;
+  background-color: #ff863f;
+  width: 100%;
+  height: 100%;
+  border: solid #f8f8fa 5px;
+  padding: 5px;
+}
+
+
+.whites2{
+  position: absolute;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(248, 248, 247);
+  margin :100px 60px 30px 40px;
+ 
+}
+
+
+.whites3{
+  position: absolute;
+  width: 150px;
+  height: 50px;
+  background-color: rgb(248, 248, 247);
+  margin :160px 60px 40px 40px;
+ 
+}
+
+
+.brawn{
+  height: 100px;
+  width: 400px;
+  background-color:#d98d30;
+ 
+  
+}
+
+
+.back_ground_box{
+  height: 800px;
+  width: 500px;
+
+  margin: auto;
+  background-color: rgb(196, 189, 189);
+}
+
+.header_box{
+  height: 100px;
+  width: 500px;
+  background-color: rgb(201, 25, 119);
+
+}
+
+.white_box{
+
+
+
+  width: 480px;
+  height: 60px;
+  padding: 10px 10px;
+  display: flex;
+  justify-content: space-between;
+
+ 
+}
+
+.white_circle{
+
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+ 
+  background-color: rgb(247, 243, 243);
+}
+
+.white_squere{
+
+  width: 200px;
+  height: 50px;
+  border-radius: 10px 10px 10px 10px ;
+  background-color: white;
+}
+
+.body_box{
+ 
+
+  background-color: rgb(196, 189, 189);
+  width: 500px;
+  height: 600px;
+
+}
+
+.face_comment_box{
+ 
+  width: 400px;
+  height: 130px;
+
+  margin: 20px 50px;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.face{
+  background-color: gray;
+  border-radius: 10px 10px 10px 10px;
+  width: 50px;
+  height: 50px;
+}
+
+.comment{
+  background-color: rgb(243, 243, 243);
+  border-radius: 10px 10px 10px 10px;
+  width: 300px;
+  height: 100px;
+
+}
+
+
+
+
+
+.footer_box{
+  background-color: darkblue;
+  width: 500px;
+  height: 100px;
+}
