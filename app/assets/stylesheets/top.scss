@@ -392,7 +392,7 @@ button {
 .basic_box{
   width: 500px;
   height: 700px;
-  background-color: gray;
+  background-color: rgba($color: #cecaca, $alpha: 1.0);
   margin: 0 auto;
 }
 
@@ -408,7 +408,7 @@ button {
 .header_white_box{
   width: 480px;
   height: 50px;
-  margin: 10px 8px;
+  margin: 22px 8px;
 
   position: absolute;
   display: flex;
@@ -436,18 +436,37 @@ button {
   height: 50px;
   border-radius: 50px;
  
-  background-color: rgb(247, 243, 243);
+  background-color: white;
 }
 
 
 
 .middle_contents{
   width: 480px;
-  height: 500px;
-  background-color: rgb(22, 19, 19);
-  margin: 20px auto;
+  height: 450px;
+
+  margin: 50px auto;
+  
 }
 
+.white_boxes{
+  width: 450px;
+  height: 150px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+
+  
+}
+
+.white_box1{
+  width: 140px;
+  height: 140px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 1px 1px rgba($color: #b9b4b4, $alpha: 1.0);
+  
+}
 
 
 
@@ -457,3 +476,5 @@ button {
   height: 100px;
   background-color: rgb(14, 14, 105);
 }
+
+
