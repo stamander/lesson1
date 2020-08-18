@@ -401,4 +401,59 @@ button {
   height: 100px;
   width: 500px;
   background-color: orange;
+  position: relative;
+}
+
+
+.header_white_box{
+  width: 480px;
+  height: 50px;
+  margin: 10px 8px;
+
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.white_wide_box{
+  width: 150px;
+  height: 50px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+
+}
+
+.circle_box{
+  width: 140px;
+  height: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.whites_circle{
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+ 
+  background-color: rgb(247, 243, 243);
+}
+
+
+
+.middle_contents{
+  width: 480px;
+  height: 400px;
+  background-color: rgb(22, 19, 19);
+  margin: 20px auto;
+}
+
+
+
+
+
+.dark_blue_footer{
+  width: 500px;
+  height: 100px;
+  background-color: blue;
 }
