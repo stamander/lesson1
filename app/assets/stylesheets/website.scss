@@ -1,0 +1,135 @@
+.wrapper{
+  width: 1000px;
+  height: 1254px;
+  margin: auto;
+}
+
+.header{
+  width: 1000px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  background-color: rgb(249, 248, 241);
+}
+.logo{
+  width: 70px;
+  height: 70px;
+  padding-top: 10px;
+}
+
+.header_contents{
+  display: flex;
+
+}
+
+.font_box{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  padding-top: 35px;
+
+}
+
+
+.main_contents_box{
+  color: gray;
+
+  background-color: rgb(235, 230, 212);
+
+}
+
+.title_box{
+  padding :100px 200px;
+
+}
+
+h1{
+  text-align:  center;
+}
+.contents_box{
+  display: flex;
+  
+
+ 
+}
+
+.photos_box{
+
+  margin-left: 10px;
+}
+
+
+
+.contents_title_box{
+  display: flex;
+  margin-bottom: 5px;
+  font-size: 12px;
+
+}
+
+.title_red{
+  margin-top: 2px;
+  width: 5px;
+  height: 25px;
+  background-color: rgb(241, 91, 121);
+}
+
+.photos{
+  margin-bottom: 10px;
+}
+
+.photo{
+  width: 220px;
+  height: 150px;
+}
+
+
+.self_introduce_box{
+  margin-left: 30px;
+}
+
+.self_introduce{
+  display: inline;
+}
+
+.introduce{
+  width: 220px;
+  height: 200px;
+}
+
+
+.footer_box2019{
+  width: 800px;
+  height: 200px;
+  margin: auto;
+  
+
+
+}
+
+
+.footer_contents_boss{
+
+  background-color: rgb(99, 153, 201);
+  
+  width: 250px;
+  height: 80px;
+  padding-top: 10px;
+  margin: 100px auto;
+ 
+  
+}
+
+.footer_contents{
+
+  color: white;
+  background-color: rgb(99, 153, 201);
+  text-align: center;
+  width: 200px;
+  height: 40px;
+  padding-top: 15px;
+  margin: 5px auto;
+
+  border: 2px white solid;
+}
